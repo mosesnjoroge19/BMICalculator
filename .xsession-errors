@@ -1,0 +1,113 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/999/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/mint/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/mint
+dbus-update-activation-environment: setting USER=mint
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting PWD=/home/mint
+dbus-update-activation-environment: setting HOME=/home/mint
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/mint/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/999/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting LOGNAME=mint
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/999/bus
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/999
+dbus-update-activation-environment: setting XAUTHORITY=/home/mint/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 14:08:56.994: couldn't access control socket: /run/user/999/keyring/control: No such file or directory
+** Message: 14:08:56.994: couldn't access control socket: /run/user/999/keyring/control: No such file or directory
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+Clutter-Message: 14:08:59.103: Sync method: PRESENTATION TIME
+Cjs-Message: 14:08:59.624: JS LOG: About to start Cinnamon
+** Message: 14:08:59.687: nemo-desktop: session is cinnamon, establishing proxy
+Cjs-Message: 14:08:59.713: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 88 ms
+Cjs-Message: 14:08:59.718: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark/cinnamon/cinnamon.css
+Cjs-Message: 14:08:59.735: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark/cinnamon
+Cjs-Message: 14:08:59.842: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 14:08:59.850: JS LOG: [LookingGlass/info] loaded at Fri Jan 29 2021 14:08:59 GMT+0000 (UTC)
+Cjs-Message: 14:08:59.850: JS LOG: Cinnamon started at Fri Jan 29 2021 14:08:59 GMT+0000 (UTC)
+Cjs-Message: 14:08:59.872: JS LOG: [LookingGlass/info] ExtensionSystem started in 2 ms
+Cjs-Message: 14:08:59.872: JS LOG: [LookingGlass/info] DeskletManager started in 0 ms
+Cjs-Message: 14:08:59.872: JS LOG: [LookingGlass/info] SearchProviderManager started in 0 ms
+openGL version 4.5 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+Cjs-Message: 14:08:59.998: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 26 ms
+Cjs-Message: 14:09:00.005: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 14:09:00.008: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 8 ms
+Cjs-Message: 14:09:00.012: JS LOG: [LookingGlass/info] Installing settings for show-desktop@cinnamon.org
+Cjs-Message: 14:09:00.012: JS LOG: [LookingGlass/info] Settings successfully installed for show-desktop@cinnamon.org
+Cjs-Message: 14:09:00.028: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 20 ms
+Cjs-Message: 14:09:00.033: JS LOG: [LookingGlass/info] Installing settings for calendar@cinnamon.org
+Cjs-Message: 14:09:00.033: JS LOG: [LookingGlass/info] Settings successfully installed for calendar@cinnamon.org
+Cjs-Message: 14:09:00.092: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 64 ms
+St-Message: 14:09:00.101: cogl npot texture sizes SUPPORTED
+Cjs-Message: 14:09:00.107: JS LOG: [LookingGlass/info] Installing settings for printers@cinnamon.org
+Cjs-Message: 14:09:00.107: JS LOG: [LookingGlass/info] Settings successfully installed for printers@cinnamon.org
+Cjs-Message: 14:09:00.120: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 28 ms
+Cjs-Message: 14:09:00.147: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 26 ms
+Cjs-Message: 14:09:00.151: JS LOG: [LookingGlass/info] Installing settings for notifications@cinnamon.org
+Cjs-Message: 14:09:00.151: JS LOG: [LookingGlass/info] Settings successfully installed for notifications@cinnamon.org
+Cjs-Message: 14:09:00.155: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 14:09:00.173: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 26 ms
+Cjs-Message: 14:09:00.180: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 6 ms
+Cjs-Message: 14:09:00.192: JS LOG: [LookingGlass/info] Installing settings for power@cinnamon.org
+Cjs-Message: 14:09:00.192: JS LOG: [LookingGlass/info] Settings successfully installed for power@cinnamon.org
+Cjs-Message: 14:09:00.206: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 26 ms
+Cjs-Message: 14:09:00.227: JS LOG: [LookingGlass/info] Installing settings for grouped-window-list@cinnamon.org
+Cjs-Message: 14:09:00.227: JS LOG: [LookingGlass/info] Settings successfully installed for grouped-window-list@cinnamon.org
+Cjs-Message: 14:09:00.237: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 14:09:00.238: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 32 ms
+Cjs-Message: 14:09:00.283: JS LOG: [LookingGlass/info] Installing settings for sound@cinnamon.org
+Cjs-Message: 14:09:00.283: JS LOG: [LookingGlass/info] Settings successfully installed for sound@cinnamon.org
+Cjs-Message: 14:09:00.320: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 82 ms
+Cjs-Message: 14:09:00.328: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (org.x.StatusIcon.PID-1969-0)
+
+(csd-power:1811): power-plugin-CRITICAL **: 14:09:00.330: abs_to_percentage: assertion 'max > min' failed
+Cjs-Message: 14:09:00.457: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (org.x.StatusIcon.PID-1969-0)
+Cjs-Message: 14:09:00.466: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 146 ms
+Cjs-Message: 14:09:00.498: JS LOG: [LookingGlass/info] Installing settings for menu@cinnamon.org
+Cjs-Message: 14:09:00.499: JS LOG: [LookingGlass/info] Settings successfully installed for menu@cinnamon.org
+Cjs-Message: 14:09:00.645: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 178 ms
+Cjs-Message: 14:09:00.645: JS LOG: [LookingGlass/info] AppletManager started in 794 ms
+Cjs-Message: 14:09:00.648: JS LOG: [LookingGlass/info] Cinnamon took 1022 ms to start
+Cjs-Message: 14:09:00.662: JS LOG: Unknown network device type, is 14
+Cjs-Message: 14:09:04.619: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: blueberry (org.x.StatusIcon.PID-2062-0)
+/usr/share/cinnamon-screensaver/cinnamon-screensaver-main.py:84: Warning: g_base64_encode_step: assertion 'in != NULL' failed
+  css = provider.to_string()
+cinnamon-session[1638]: WARNING: t+62.82493s: Detected that screensaver has left the bus
+mate-screensaver: no process found
+light-locker: no process found
+
+(nemo:2189): Gtk-WARNING **: 14:22:40.493: Failed to register client: GDBus.Error:org.gnome.SessionManager.AlreadyRegistered: Unable to register client
+Nemo-Share-Message: 14:22:41.686: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
+net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Cjs-Message: 14:22:42.598: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 14:22:46.066: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 14:22:54.583: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Cjs-Message: 14:23:27.373: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+Nemo-Share-Message: 14:23:38.645: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
+net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Nemo-Share-Message: 14:23:58.247: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
+net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
