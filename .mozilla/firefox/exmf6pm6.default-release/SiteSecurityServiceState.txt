@@ -3,7 +3,7 @@ www.youtube.com:HSTS	0	18656	1643466844103,1,0,2
 classify-client.services.mozilla.com:HSTS	0	18656	1643466885764,1,0,2
 search.services.mozilla.com:HSTS	0	18656	1643466618978,1,0,2
 stats.g.doubleclick.net:HSTS	0	18656	1622817244306,1,1,2
-api.github.com:HSTS	0	18656	1643467429444,1,1,2
+api.github.com:HSTS	0	18656	1643467987083,1,1,2
 pixel.tapad.com:HSTS	0	18656	1643466857403,1,0,2
 r.search.yahoo.com:HSTS	0	18656	1643466972356,1,0,2
 firefox.settings.services.mozilla.com:HSTS	0	18656	1643467006126,1,0,2
@@ -12,7 +12,7 @@ askubuntu.com:HSTS	0	18656	1627482640425,1,0,2
 avatars.githubusercontent.com:HSTS	0	18656	1643489117432,1,0,2
 aus5.mozilla.org:HSTS	0	18656	1643467127217,1,0,2
 services.addons.mozilla.org:HSTS	0	18656	1643467126905,1,0,2
-github.com:HSTS	0	18656	1643467593249,1,1,2
+github.com:HSTS	0	18656	1643467986613,1,1,2
 glitter.services.disqus.com:HSTS	0	18656	1611931156757,1,1,2
 ajax.cloudflare.com:HSTS	0	18656	1627710841234,1,1,2
 serverlab.disqus.com:HSTS	0	18656	1611931145003,1,1,2
@@ -22,7 +22,7 @@ connect.facebook.net:HSTS	0	18656	1643466854702,1,1,2
 blocklists.settings.services.mozilla.com:HSTS	0	18656	1643467245034,1,0,2
 ssl.google-analytics.com:HSTS	0	18656	1622817243520,1,1,2
 apis.google.com:HSTS	0	18656	1643466854399,1,0,2
-collector.githubapp.com:HSTS	0	18656	2243069924887,1,0,2
+collector.githubapp.com:HSTS	0	18656	2243070506015,1,0,2
 disqus.com:HSTS	0	18656	1611931152620,1,1,2
 fonts.googleapis.com:HSTS	0	18656	1643466847239,1,0,2
 shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	18656	1643466618206,1,1,2
